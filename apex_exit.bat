@@ -1,7 +1,7 @@
 @echo off
 setlocal enabledelayedexpansion
-set APP_NAME1=EasyAntiCheat.exe
-set APP_NAME2=r5apex.exe
+set APP_NAME1=r5apex.exe
+set APP_NAME2=EasyAntiCheat.exe
 set APP_NAME3=dllhost.exe
 
 for /f %%i in ('tasklist /fi "IMAGENAME eq %APP_NAME1%" 2^>^&1') do (

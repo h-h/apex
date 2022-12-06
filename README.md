@@ -4,13 +4,13 @@
 [ファイルを保存](https://github.com/h-h/apex/blob/main/apex_exit.bat)
 
 ## Requirement
-windows10
+* windows10
 
 ## 使い方
-保存して、実行。
+* 保存して、実行。
 
 ## バグや質問はこちら
-[twitter](https://twitter.com/qwerty_lkj1)
+* [twitter](https://twitter.com/qwerty_lkj1)
 
 ## ライセンス
-ご自由に改変等どうぞ
+* ご自由に改変等どうぞ

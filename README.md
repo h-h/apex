@@ -13,4 +13,4 @@ windows10
 [twitter](https://twitter.com/qwerty_lkj1)
 
 ## ライセンス
-[MIT](https://github.com/kotabrog/ft_mini_ls/blob/main/LICENSE)
+ご自由に改変等どうぞ

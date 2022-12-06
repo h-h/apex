@@ -1,6 +1,6 @@
 # apex_edit.bat
 * apex legendの終了が出来ないので、windowsのバッチをつくりました。まだバグがあるかもしれませんが、動きます。
-* 2022/12/06 18:18 更新
+* 2022/12/06 18:44 更新
 [ファイルを保存](https://github.com/h-h/apex/blob/main/apex_exit.bat)
 
 ## Requirement

@@ -1,7 +1,5 @@
 ![giphy](https://user-images.githubusercontent.com/2212660/205880459-4eb440e7-0c53-4398-9a8c-f004a56d459f.gif)
 
-![demo](https://raw.github.com/wiki/takuyama29/WorldTracking/images/Untitled.gif)
-
 # apex_edit.bat
 * apex legendの終了が出来ないので、windowsのバッチをつくりました。まだバグがあるかもしれませんが、動きます。
 * 2022/12/06 18:44 更新

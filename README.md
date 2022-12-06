@@ -1,3 +1,4 @@
+![Animation](https://user-images.githubusercontent.com/2212660/205893056-d37d1f0f-7b74-4a36-baff-3d77d4e7888f.gif)
 # apex_edit.bat
 * apex legendの終了が出来ないので、windowsのバッチをつくりました。まだバグがあるかもしれませんが、動きます。
 * 2022/12/06 18:44 更新

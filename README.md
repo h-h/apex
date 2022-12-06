@@ -9,7 +9,7 @@ windows10
 ## 使い方
 保存して、実行。
 
-## つくったひと
+## バグや質問はこちら
 [twitter](https://twitter.com/qwerty_lkj1)
 
 ## ライセンス

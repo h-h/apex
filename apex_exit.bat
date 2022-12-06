@@ -23,6 +23,8 @@ if not ERRORLEVEL 1 (
     echo "DLLHOST killed simasita"
 )
 
+timeout /nobreak /t 5 > nul
+
 for /f %%i in ('tasklist /fi "IMAGENAME eq %APP_NAME1%" 2^>^&1') do (
     if /i %%i==%APP_NAME1% (
         taskkill /im %APP_NAME1% /t /f

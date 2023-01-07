@@ -26,4 +26,4 @@
 * [twitter](https://twitter.com/qwerty_lkj1)
 
 ## ライセンス
-* ご自由に改変等どうぞ
+* ご自由に改変等どうぞどうぞ
